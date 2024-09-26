@@ -2,4 +2,4 @@
 
 Repositorio de código y ejercicios de programación
 
-[GokuPiensa](Goku_Pensando.JPG.jpg)
+![GokuPiensa](Goku_Pensando.JPG.jpg)
