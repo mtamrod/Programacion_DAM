@@ -1,1 +1,3 @@
-# Repositorio Python DAM
+# Repositorio Personal DAM
+
+Repositorio de código y ejercicios de programación
